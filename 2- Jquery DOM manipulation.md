@@ -24,3 +24,32 @@ It's based on the existing CSS Selectors, and in addition, it has some own custo
   });
 });
 ```
+
+#### Id selector
+
+#### Example 2
+```javascript
+ $(document).ready(function(){
+  $("button").click(function(){
+    $("#test").hide();
+  });
+});
+```
+
+#### Class selector
+
+#### Example 3
+```javascript
+ $(document).ready(function(){
+  $("button").click(function(){
+    $(".test").hide();
+  });
+});
+```
+
+### Other samples
+
+| Syntax        |  Description                                              |
+|---------------|-----------------------------------------------------------|
+| $("*")        |  Selects all elements                                     |
+| $(this)       |  Selects the current HTML element                         |
