@@ -11,11 +11,11 @@ jQuery takes a lot of common tasks that require many lines of JavaScript code to
 
 jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.
 
-### The jQuery library contains the following features:
+#### The jQuery library contains the following features:
 
-    HTML/DOM manipulation
-    CSS manipulation
-    HTML event methods
-    Effects and animations
-    AJAX
-    Utilities
+* HTML/DOM manipulation
+* CSS manipulation
+* HTML event methods
+* Effects and animations
+* AJAX
+* Utilities
