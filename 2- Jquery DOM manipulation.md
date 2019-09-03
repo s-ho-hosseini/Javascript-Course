@@ -49,11 +49,11 @@ It's based on the existing CSS Selectors, and in addition, it has some own custo
 
 ### Other samples
 
-| Syntax        |  Description                                                             |
-|---------------|--------------------------------------------------------------------------|
-| $("*")        |  Selects all elements                                                    |
-| $(this)       |  Selects the current HTML element                                        |
-| $("p.intro")  |  Selects all <p> elements with class="intro"                             |
-| $("p:first")  |  Selects the first <p> element                                           |
-| $(":button")  |  Selects all <button> elements and <input> elements of type="button"     |
-| $("tr:even")  |  Selects all even <tr> elements                                          |
+| Syntax        |  Description                                                                        |
+|---------------|-------------------------------------------------------------------------------------|
+| $("*")        |  Selects all elements                                                               |
+| $(this)       |  Selects the current HTML element                                                   |
+| $("p.intro")  |  Selects all <p> elements with class="intro"                                        |
+| $("p:first")  |  Selects the first <p> element                                                      |
+| $(":button")  |  Selects all <button> elements and <input> elements of type="button"                |
+| $("tr:even")  |  Selects all even <tr> elements                                                     |
