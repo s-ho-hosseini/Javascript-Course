@@ -19,3 +19,10 @@ jQuery also simplifies a lot of the complicated things from JavaScript, like AJA
 * Effects and animations
 * AJAX
 * Utilities
+
+#### Many of the biggest companies on the Web use jQuery, such as:
+
+* Google
+* Microsoft
+* IBM
+* Netflix
