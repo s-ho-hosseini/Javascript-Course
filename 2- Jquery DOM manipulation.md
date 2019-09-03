@@ -12,4 +12,15 @@ jQuery selectors are used to "find" (or select) HTML elements based on their nam
 
 It's based on the existing CSS Selectors, and in addition, it has some own custom selectors.
 
-$("p") 
+    $("p") 
+
+#### Tag selector
+
+#### Example 1
+```javascript
+ $(document).ready(function(){
+  $("button").click(function(){
+    $("p").hide();
+  });
+});
+```
