@@ -33,4 +33,18 @@ Some pattern sample
 
 ## Quantifiers
 
-## Javascript RegExp test() Methods
+    * n+
+    * n*
+    * n?
+    * n{X}
+    * n{X,Y}
+    * n{X,}
+    * n$
+    * ^n
+    * ?=n
+    * ?!n
+
+## Javascript RegExp Methods
+
+test()
+match()
